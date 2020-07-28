@@ -5,6 +5,8 @@ const whitelist = [
     "http://localhost:5001",
     "localhost:3000",
     "localhost:5001",
+    "https://boiling-tor-13476.herokuapp.com",
+    "boiling-tor-13476.herokuapp.com",
     undefined,
 ];
 
