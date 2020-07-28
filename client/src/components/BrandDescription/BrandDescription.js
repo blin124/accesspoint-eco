@@ -6,7 +6,7 @@ class BrandDescription extends Component {
         return (
             <div className="container-fluid d-flex justify-content-center p-0 m-0">
                 <div className="row m-0 p-0">
-                    <div className="cardBackground card col-md-9 col-xs-12">
+                    <div className="col-md-9 col-xs-12">
                         <div className="card-body">
                             <h5 className="card-title">About Company</h5>
                             <p className="card-text">
@@ -15,7 +15,7 @@ class BrandDescription extends Component {
                         </div>
                     </div>
 
-                    <div className="cardBackground card col-md-3 col-xs-12 text-center">
+                    <div className=" card col-md-3 col-xs-12 text-center">
                         <div className="card-body">
                             <h5 className="card-title">Follow Us!</h5>
                             <a href="/">
