@@ -43,7 +43,6 @@ function Cart(props) {
                             <thead>
                                 <tr>
                                 <th scope="col">Product</th>
-                                <th scope="col">Quantity</th>
                                 <th scope="col">Price</th>
                                 </tr>
                             </thead>
@@ -53,7 +52,6 @@ function Cart(props) {
                                 return (
                                     <tr>
                                     <th scope="row">{product.name}</th>
-                                    <th scope="row">description</th>
                                     <th scope="row">$ {product.price}</th>
                                     </tr>
                                 );
