@@ -10,7 +10,8 @@ class BrandDescription extends Component {
                         <div className="card-body">
                             <h5 className="card-title">About Company</h5>
                             <p className="card-text">
-                                Our company ................................................................
+                                Our company provides an online e-commerce store which allows a view of our products before deciding to purchase.
+                                Customers must sign up and login, in order to add a product to their carts which will allow deletion if necessary.
                             </p>
                         </div>
                     </div>
